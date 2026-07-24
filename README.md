@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Anchita Borah 👋
 
-<!--
-**anchi205/anchi205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Systems & Cloud-Native Software Engineer
 
-Here are some ideas to get you started:
+I specialize in **Kubernetes operators, distributed systems, container builds, and security automation**. Currently building cloud-native infrastructure at **Red Hat**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Go (Golang), Rust, Python, C++, TypeScript, SQL, Shell
+- **Cloud Native & Infra:** Kubernetes (Operators, CRDs, CSI Drivers, Network Policies), OpenShift, Docker, Linux, CI/CD
+- **Systems & Networking:** Distributed Systems, P2P (libp2p, Kademlia DHT), TLS/Zero-Trust
+- **AI & Automation:** LLM Tooling / Agents, Automated Security & CVE Pipelines
+
+---
+
+### 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/anchitaborah](https://linkedin.com/in/anchitaborah) 
+- **Email:** borahanchita@gmail.com[cite: 1]
