@@ -17,5 +17,5 @@ I specialize in **Kubernetes operators, distributed systems, container builds, a
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/anchitaborah](https://linkedin.com/in/anchitaborah) 
+- **LinkedIn:** [linkedin.com/in/anchita-borah](https://www.linkedin.com/in/anchita-borah/)
 - **Email:** borahanchita@gmail.com
