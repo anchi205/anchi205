@@ -1,21 +1,22 @@
 # Hi, I'm Anchita Borah 👋
 
-### 🚀 Systems & Cloud-Native Software Engineer
+### 🚀 Systems Software Engineer
 
-I specialize in **Kubernetes operators, distributed systems, container builds, and security automation**. Currently building cloud-native infrastructure at **Red Hat**
+I'm interested in compilers, agentic AI, and LLM inference, and in building the systems underneath them. 
 
----
+## 🔭 Interests
 
-### 🛠️ Tech Stack
+- **Compilers:** IR design, optimization passes, code generation
+- **Agentic AI:** LLM agents, tool use, and automation workflows
+- **LLM Inference:** serving, performance, and efficient runtimes
 
-- **Languages:** Go (Golang), Rust, Python, C++, TypeScript, SQL, Shell
-- **Cloud Native & Infra:** Kubernetes (Operators, CRDs, CSI Drivers, Network Policies), OpenShift, Docker, Linux, CI/CD
-- **Systems & Networking:** Distributed Systems, P2P (libp2p, Kademlia DHT), TLS/Zero-Trust
+## 🛠️ Tech Stack
+
+- **Languages:** Go, Rust, Python, C++, TypeScript, SQL, Shell
+- **Systems & Networking:** Distributed Systems, P2P (libp2p, Kademlia DHT), TLS/Zero-Trust, Linux
 - **AI & Automation:** LLM Tooling / Agents, Automated Security & CVE Pipelines
 
----
+## 📫 Connect With Me
 
-### 📫 Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/anchita-borah](https://www.linkedin.com/in/anchita-borah/)
-- **Email:** borahanchita@gmail.com
+- LinkedIn: [linkedin.com/in/anchita-borah](https://www.linkedin.com/in/anchita-borah/)
+- Email: [borahanchita@gmail.com](mailto:borahanchita@gmail.com)
