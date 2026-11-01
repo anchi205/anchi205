@@ -1,8 +1,8 @@
 # Hi, I'm Anchita Borah 👋
 
-### 🚀 Systems Software Engineer
+### Systems Software Engineer
 
-I'm interested in compilers, agentic AI, and LLM inference, and in building the systems underneath them. 
+I'm interested in GPU Programming, compilers, agentic AI, and LLM inference, and in building the systems underneath them. 
 
 ## 🔭 Interests
 
@@ -13,7 +13,7 @@ I'm interested in compilers, agentic AI, and LLM inference, and in building the 
 ## 🛠️ Tech Stack
 
 - **Languages:** Go, Rust, Python, C++, TypeScript, SQL, Shell
-- **Systems & Networking:** Distributed Systems, P2P (libp2p, Kademlia DHT), TLS/Zero-Trust, Linux
+- **Systems & Networking:** Distributed Systems, P2P (libp2p, Kademlia DHT), TLS, Linux
 - **AI & Automation:** LLM Tooling / Agents, Automated Security & CVE Pipelines
 
 ## 📫 Connect With Me
